@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBEACD0-8056-45C1-AC7A-8D96099F1E3A}|Laimgruber_QR_COD_03\\Laimgruber_QR_COD_03.vcxproj|C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_03\\Programm_12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDBEACD0-8056-45C1-AC7A-8D96099F1E3A}|Laimgruber_QR_COD_03\\Laimgruber_QR_COD_03.vcxproj|solutionrelative:Laimgruber_QR_COD_03\\Programm_12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA959738-2C0B-486D-B5FA-A4E8E771CC16}|Laimgruber_QR_COD_13\\Laimgruber_QR_COD_13.vcxproj|C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_13\\Programm_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA959738-2C0B-486D-B5FA-A4E8E771CC16}|Laimgruber_QR_COD_13\\Laimgruber_QR_COD_13.vcxproj|solutionrelative:Laimgruber_QR_COD_13\\Programm_13.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D9FA60-14D2-42D6-98AB-47AE388BBB51}|Laimgruber_QR_COD_14\\Laimgruber_QR_COD_14.vcxproj|C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_14\\Programm_14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E6D9FA60-14D2-42D6-98AB-47AE388BBB51}|Laimgruber_QR_COD_14\\Laimgruber_QR_COD_14.vcxproj|solutionrelative:Laimgruber_QR_COD_14\\Programm_14.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD138351-9D15-4367-B55C-4F32CA8A4F7D}|Laimgruber_QR_COD_15\\Laimgruber_QR_COD_15.vcxproj|C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_15\\Programm_15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD138351-9D15-4367-B55C-4F32CA8A4F7D}|Laimgruber_QR_COD_15\\Laimgruber_QR_COD_15.vcxproj|solutionrelative:Laimgruber_QR_COD_15\\Programm_15.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841789BC-1B75-4C69-85CD-8223EA7E3131}|Laimgruber_QR_COD_16\\Laimgruber_QR_COD_16.vcxproj|C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_16\\Programm_16.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{841789BC-1B75-4C69-85CD-8223EA7E3131}|Laimgruber_QR_COD_16\\Laimgruber_QR_COD_16.vcxproj|solutionrelative:Laimgruber_QR_COD_16\\Programm_16.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Programm_16.c",
+              "DocumentMoniker": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_16\\Programm_16.c",
+              "RelativeDocumentMoniker": "Laimgruber_QR_COD_16\\Programm_16.c",
+              "ToolTip": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_16\\Programm_16.c",
+              "RelativeToolTip": "Laimgruber_QR_COD_16\\Programm_16.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T06:46:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programm_15.c",
+              "DocumentMoniker": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_15\\Programm_15.c",
+              "RelativeDocumentMoniker": "Laimgruber_QR_COD_15\\Programm_15.c",
+              "ToolTip": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_15\\Programm_15.c",
+              "RelativeToolTip": "Laimgruber_QR_COD_15\\Programm_15.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T06:46:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programm_14.c",
+              "DocumentMoniker": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_14\\Programm_14.c",
+              "RelativeDocumentMoniker": "Laimgruber_QR_COD_14\\Programm_14.c",
+              "ToolTip": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_14\\Programm_14.c",
+              "RelativeToolTip": "Laimgruber_QR_COD_14\\Programm_14.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T06:46:34.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programm_13.c",
+              "DocumentMoniker": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_13\\Programm_13.c",
+              "RelativeDocumentMoniker": "Laimgruber_QR_COD_13\\Programm_13.c",
+              "ToolTip": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_13\\Programm_13.c",
+              "RelativeToolTip": "Laimgruber_QR_COD_13\\Programm_13.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T06:46:27.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programm_12.c",
+              "DocumentMoniker": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_03\\Programm_12.c",
+              "RelativeDocumentMoniker": "Laimgruber_QR_COD_03\\Programm_12.c",
+              "ToolTip": "C:\\Users\\Bertrand\\Desktop\\Laimgruber_QR_COD_03\\Laimgruber_QR_COD_03\\Programm_12.c",
+              "RelativeToolTip": "Laimgruber_QR_COD_03\\Programm_12.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T06:46:18.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
